@@ -1,3 +1,5 @@
 _site/
+sync.sh
+sync-staging.sh
+.project
 .sass-cache/
-.jekyll-metadata
